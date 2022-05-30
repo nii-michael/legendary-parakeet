@@ -42,9 +42,6 @@ td.topt{
     text-align: left;
     padding: 8px 15px;
 }
-.topt td{
-    
-}
 
 tr.toptt:nth-child(even), table.list thread> tr.toptt{
     background-color: rgb(204,200,200);
@@ -93,5 +90,13 @@ button{
 
 button:hover{
     background:#4b99d8 ;
+}
+
+table.repo{
+
+	width: 100%;
+	margin: 40px auto;
+    border: 1px solid black;
+  border-collapse: collapse;
 }
 
